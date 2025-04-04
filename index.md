@@ -7,7 +7,7 @@ My name is Alec Fong and I am a third-year computer science major. I started my 
 Outside of the classroom, I like to:
 - play badminton
 - watch movies
-  - Want to know my favorites movies and favorite movie quote? Check out [fun facts](#fun-facts)
+  - Want to know my favorite movies and movie quote? Check out [fun facts](#fun-facts)
 - collect things
 
 Badminton is a hobby I recently picked up and I really enjoy playing and improving, which is surprising, considering how I was never really into sports growing up. On the other hand, I have always enjoyed watching movies. I often watch and discuss movies with my dad and I think the effort that goes into making movies is fascinating. I have also always enjoyed collecting things. Some things that I enjoy collecting are keychains from places that I've visited, watches, and Japanese model kits.
@@ -23,7 +23,7 @@ Badminton is a hobby I recently picked up and I really enjoy playing and improvi
    > "People call these things imperfections, but they're not, that's the good stuff. And then we get to choose who we let into our weird little worlds." - Sean Maguire, _Good Will Hunting_
 3. I prefer to name my variables using `camelCase` as opposed to `snake_case`
 4. I recently worked on an app that uses voice recognition to help San Diego residents sort their waste items. Check out the Github repository [here](https://github.com/IVenzon/PlanetFlip-Where-It-Goes)
-5. Places I've been:
+5. Places I've visited:
    - [X] Rome
    - [X] London
    - [X] Hong Kong
