@@ -1,5 +1,7 @@
 # Alec Fong's User Page
 
+![Image of me](profile_picture.jpg)
+
 ## About Me
 
 My name is Alec Fong and I am a third-year computer science major. I started my computer science journey in the summer leading up to my junior year of high school when I took an introductory C++ class at Chabot College. Ever since, I have been interested in learning more about what CS has to offer. I am proficient in C/C++, Java, and MATLAB and I have a working familiarity with Python.
@@ -32,3 +34,4 @@ Badminton is a hobby I recently picked up and I really enjoy playing and improvi
    - [ ] Japan
    - [ ] Australia
    - [ ] Mars
+6. I have a dog named Zorro
