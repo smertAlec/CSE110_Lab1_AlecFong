@@ -20,7 +20,7 @@ Badminton is a hobby I recently picked up and I really enjoy playing and improvi
    - _La La Land_
    - _Train To Busan_
 2. My favorite movie quote is:
-  > "People call these things imperfections, but they're not, that's the good stuff. And then we get to choose who we let into our weird little worlds." - Sean Maguire, _Good Will Hunting_
+   > "People call these things imperfections, but they're not, that's the good stuff. And then we get to choose who we let into our weird little worlds." - Sean Maguire, _Good Will Hunting_
 3. I prefer to name my variables using `camelCase` as opposed to `snake_case`
 4. I recently worked on an app that uses voice recognition to help San Diego residents sort their waste items. Check out the Github repository [here](https://github.com/IVenzon/PlanetFlip-Where-It-Goes)
 5. Places I've been:
