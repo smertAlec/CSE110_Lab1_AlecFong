@@ -34,4 +34,4 @@ Badminton is a hobby I recently picked up and I really enjoy playing and improvi
    - [ ] Japan
    - [ ] Australia
    - [ ] Mars
-6. I have a dog named Zorro
+6. I have a dog named Zorro. Here's a [picture of him](zorro.jpg)
